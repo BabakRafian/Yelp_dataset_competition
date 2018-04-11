@@ -1,3 +1,3 @@
 # Yelp_dataset_competition
 
-This Line is added to test git Bash
+This is a machine learning/NLP project attempting to classify Yelp reviews 
